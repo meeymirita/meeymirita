@@ -1,6 +1,6 @@
 # Добро пожаловать!
 
-![Mita](https://github.com/meeymirita/meeymirita/blob/main/my-project/images/me.jpg?raw=true)
+![Mita](https://github.com/meeymirita/meeymirita/blob/main/images/me.png?raw=true)
 
 
 ### Привет! Мне 21 год
@@ -32,5 +32,6 @@
 ---
 
 *Спасибо, что заглянули!*
+
 
 
