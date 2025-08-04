@@ -21,14 +21,14 @@
 
 | Технология | Логотип                              |
 |------------|------------------------------------|
-| JavaScript | ![JS](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg)   |
-| jQuery     | ![jQuery](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg)         |
-| PHP        | ![PHP](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg)                   |
-| Laravel    | ![Laravel](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg)         |
-| Vue        | ![Vue](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg)              |
-| Docker     | ![Docker](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg)         |
-| CSS / SCSS | ![CSS3](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg)                |
-| Vite       | ![Vite](https://vitejs.dev/logo.svg) *(логотип Vite, можно заменить на свой)*                     |
+| JavaScript | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="24" height="24" alt="JS" />   |
+| jQuery     | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width="24" height="24" alt="jQuery" />         |
+| PHP        | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="24" height="24" alt="PHP" />                   |
+| Laravel    | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="24" height="24" alt="Laravel" />         |
+| Vue        | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="24" height="24" alt="Vue" />              |
+| Docker     | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="24" height="24" alt="Docker" />         |
+| CSS / SCSS | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="24" height="24" alt="CSS3" />                |
+| Vite       | <img src="https://vitejs.dev/logo.svg" width="24" height="24" alt="Vite" />                                                               |
 
 ---
 
