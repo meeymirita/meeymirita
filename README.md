@@ -1,2 +1,3 @@
-![Mita](https://github.com/meeymirita/meeymirita/blob/main/my-project/images/mita.jpg?raw=true)
+![Mita](https://github.com/meeymirita/meeymirita/blob/main/my-project/images/me.jpg?raw=true)
+
 
