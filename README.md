@@ -8,6 +8,7 @@
 [![Telegram](https://img.shields.io/badge/-Telegram-111?style=for-the-badge&logo=Telegram&color=linen)](https://t.me/meeymirita)
 
 🛠️ **Стек:**
+
 [![Laravel](https://img.shields.io/badge/-Laravel-111?style=for-the-badge&logo=Laravel&color=teal&logoColor=white)](https://laravel.com/) 
 [![Redis](https://img.shields.io/badge/-Redis-111?style=for-the-badge&logo=Redis&color=teal&logoColor=white)](https://redis.io/)
 [![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-111?style=for-the-badge&logo=RabbitMQ&color=teal&logoColor=white)](https://www.rabbitmq.com/)
@@ -23,6 +24,7 @@
 [![PHPStorm](https://img.shields.io/badge/-PHPStorm-111?style=for-the-badge&logo=PHPStorm&color=teal&logoColor=white)](https://www.jetbrains.com/phpstorm/)  
 
 *Спасибо, что заглянули!*
+
 
 
 
