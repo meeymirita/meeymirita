@@ -23,7 +23,17 @@
 [![Node.js](https://img.shields.io/badge/-Node.js-111?style=for-the-badge&logo=Node.js&color=teal&logoColor=white)](https://nodejs.org/)   
 [![PHPStorm](https://img.shields.io/badge/-PHPStorm-111?style=for-the-badge&logo=PHPStorm&color=teal&logoColor=white)](https://www.jetbrains.com/phpstorm/)  
 
+
+![mood](https://img.shields.io/badge/-vino%20%26%20cigarettes-111?style=for-the-badge&color=teal)
+<sub>Вино и сигареты — это всё, что нам осталось</sub>
+<sub>Вино и сигареты — это всё, что нам осталось</sub>
+<sub>Мой сон — твои объятья, а мой космос — гематома</sub>
+<sub>Впечатай меня в стену, чтобы я осталась дома</sub>
+<sub>Мой сон — твои объятья</sub>
+
+
 *Спасибо, что заглянули!*
+
 
 
 
