@@ -23,9 +23,6 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=meeymirita&show_icons=true&count_private=true&hide_border=true&title_color=E91E9C&icon_color=E91E9C&text_color=333333&bg_color=FFFFFF00" width="49%" alt="GitHub stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meeymirita&layout=compact&hide_border=true&title_color=E91E9C&text_color=333333&bg_color=FFFFFF00" width="35%" alt="Top languages"/>
-
 <img src="https://streak-stats.demolab.com/?user=meeymirita&hide_border=true&background=FFFFFF00&ring=E91E9C&fire=E91E9C&currStreakLabel=E91E9C" width="70%" alt="GitHub streak"/>
 
 </div>
